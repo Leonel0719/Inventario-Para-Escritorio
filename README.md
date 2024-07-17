@@ -1,4 +1,4 @@
-# 📍Inventario Para Escritorio (Stock Inventory)📍
+# 📍Stock Inventory📍
 Sistema de inventario sencillo para escritorio(En Proceso)⏳
 
 Buscando la manera de resolver las necesidades de los emprendedores, microempresas y instituciones de manera sencilla, eficas y eficientemente posible, inicio el proceso de crear el sistema de inventario que llevara por nombre "Stock Inventory Sv", el cual facilitara la manera de administrar los productos inventariados por el usuario.
